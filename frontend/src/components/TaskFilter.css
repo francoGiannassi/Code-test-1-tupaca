@@ -1,0 +1,17 @@
+.task-filter {
+    margin-bottom: 20px;
+  }
+  
+label {
+    margin-right: 10px;
+  }
+  
+input, select {
+    padding: 5px;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+  }
+  
+select {
+    margin-left: 5px;
+  }
